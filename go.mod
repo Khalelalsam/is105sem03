@@ -1,3 +1,3 @@
-module github.com/Kalelalsam/is105sem03
+module github.com/Khalelalsam/is105sem03
 
 go 1.20
